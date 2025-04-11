@@ -36,3 +36,7 @@ $RECYCLE.BIN/
 
 # macOS
 .DS_Store
+
+# vite
+node_modules
+dist
