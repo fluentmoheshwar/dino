@@ -2,7 +2,7 @@
 
 T-Rex Runner is an Easter Egg in Google Chrome which appears when you suddenly lose internet access. [Here](https://www.blog.google/products/chrome/chrome-dino/) is the origin of this game.
 
-The dino game is extracted from the Chromium [source code](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js) in commit `24d8c44` 
+The dino game is extracted from the Chromium [source code](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js) in commit `24d8c44`
 
 ## Controls
 
